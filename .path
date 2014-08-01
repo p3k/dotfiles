@@ -1,0 +1,12 @@
+# Add Apple Developer binaries
+export PATH=/Developer/usr/bin:$PATH
+
+# Add MacPorts binaries and manual pages
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+export MANPATH=/opt/local/share/man:$MANPATH
+
+# Add MacGPG binaries
+export PATH=/usr/local/MacGPG2/bin:$PATH
+
+# Set JAVA_HOME directory
+export JAVA_HOME="`/usr/libexec/java_home`"
