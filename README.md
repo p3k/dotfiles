@@ -1,4 +1,5 @@
 # dotfiles.p3k.org
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/p3k/dotfiles?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Initially forked from https://github.com/mathiasbynens/dotfiles.
 
